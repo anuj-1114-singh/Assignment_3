@@ -1,0 +1,187 @@
+  *{
+    box-sizing: border-box;
+    float: left;
+    color: black; 
+  }
+  @media(min-width:992px){
+  h2{
+    text-align: center;
+    color: hotpink;
+    clear: both;
+    width: 100%;
+  }
+  #p1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 33.33%;
+    clear: right;
+    border: white solid 2.5px;
+    opacity: 0.6;
+    background-color: gray;
+    }
+  #p2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 33.33%;
+    clear: right;
+    border: white solid 2.5px;
+    background-color: gray;
+    opacity: 0.6;
+  }
+  #p3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 33.33%;
+    clear: right;
+    border: white solid 2.5px;
+    background-color: gray;
+    opacity: 0.6;
+  }
+  #ch{
+    border: black 1px solid;
+    float: right;
+    text-align: center;
+    width: 60px;
+    background-color: palevioletred;
+  }
+  #be{
+    float: right;
+    color: white;
+    font-weight: 800;
+    width: 60px;
+    border: black 1px solid;
+    text-align: center;
+    background-color: red;
+  }
+  #su{
+    width: 60px;
+    float: right;
+    border: black 1px solid;
+    text-align: center;
+    color: black;
+    background-color: sandybrown;
+  }
+}
+  @media (min-width: 768px) and (max-width:991px)
+  {
+  h2{
+    text-align: center;
+    color: hotpink;
+    clear: both;
+    width: 100%;
+  }
+  #ch{
+    border: black 1px solid;
+    float: right;
+    text-align: center;
+    width: 60px;
+    background-color: palevioletred;
+  }
+  #be{
+    float: right;
+    color: white;
+    font-weight: 800;
+    width: 60px;
+    border: black 1px solid;
+    text-align: center;
+    background-color: red;
+  }
+  #su{
+    width: 60px;
+    float: right;
+    border: black 1px solid;
+    text-align: center;
+    color: black;
+    background-color: sandybrown;
+  }
+  #p1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 50%;
+    clear: both;
+    border: white solid 2.5px;
+    opacity: 0.6;
+    background-color: gray;
+    }
+  #p2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 50%;
+    clear: right;
+    border: white solid 2.5px;
+    background-color: gray;
+    opacity: 0.6;
+  
+  }
+  #p3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 100%;
+    clear: right;
+    border: white solid 2.5px;
+    background-color: gray;
+    opacity: 0.6;
+    margin-top: 5px;
+  }
+  }
+  @media(max-width: 767px){
+    h2{
+    text-align: center;
+    color: hotpink;
+    clear: both;
+    width: 100%;
+  }
+  section{
+    float: right;
+    border:1px solid darkblue;
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+  }
+  #p1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 100%;
+    clear: right;
+    border: white solid 2.5px;
+    opacity: 0.6;
+    background-color: gray;
+    margin-top: 5px;
+    }
+  #p2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 100%;
+    clear: right;
+    border: white solid 2.5px;
+    background-color: gray;
+    opacity: 0.6;
+    margin-top: 5px;
+  
+  }
+  #p3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 100%;
+    clear: right;
+    border: white solid 2.5px;
+    background-color: gray;
+    opacity: 0.6;
+    margin-top: 5px;
+  }
+  #ch{
+    border: black 1px solid;
+    float: right;
+    text-align: center;
+    width: 60px;
+    background-color: palevioletred;
+  }
+  #be{
+    float: right;
+    color: white;
+    font-weight: 800;
+    width: 60px;
+    border: black 1px solid;
+    text-align: center;
+    background-color: red;
+  }
+  #su{
+    width: 60px;
+    float: right;
+    border: black 1px solid;
+    text-align: center;
+    color: black;
+    background-color: sandybrown;
+  }
+  }
